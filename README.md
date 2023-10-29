@@ -30,10 +30,9 @@ Train/Test Split: Now we are familiar with the train/test split, which we can pe
 Model-Building/Hyperparameter Tuning: This is the final step at which we can try different models and fine-tune their hyperparameters until we get the desired level of performance on the given dataset. We should try and see if we get a better model by the various sampling techniques.
 Model Evaluation: We need to evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. We need to choose an appropriate evaluation metric which reflects this business goal.
 
-
+<img src="homepage.jpeg" alt="Game Page">
 <table>
   <tr>
-    <td align="center"><img src="homepage.jpeg" alt="Game Page"></td>
     <td align="center"><img src="o2.jpeg" alt="Homepage"></td>
     <td align="center"><img src="o3.jpeg" alt="Homepage"></td>
   </tr>
